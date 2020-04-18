@@ -5,14 +5,17 @@
                 "Du machst den unterschied!",
                 "Ein wunderschönes Lächeln, für einen wunderschönen Tag",
                 "Schaust du noch immer in den Spiegel?",
-                "Der Spiegel sagt: 'Hallo!'"
+                "Der Spiegel sagt: 'Hallo!'",
+                "Hoffentlich ist heute keine Schule!",
+                "Hausaufgaben - was ist das?"
         ],
         "morning" : [
                 "Dein Haar ist mega heute!",
                 "Beginne den Tag mit einem Lächeln",
                 "Das wird ein schöner Tag!",
                 "Ist der Tag nicht großartig?",
-                "Mach dich bereit für einen großartigen Tag!"
+                "Mach dich bereit für einen großartigen Tag!",
+                "Wo ist eigentlich Herr Roos?"                
         ],
         "afternoon" : [
                 "Mache noch schnell deine Arbeit fertig ...",
@@ -26,5 +29,15 @@
                 "Yeah, Freizeit",
                 "Du machst den Unterschied",
                 "War das Essen gut?"
-        ]
+        ],
+        "day_sunny": [
+		"T-Shirt Wetter",
+		"Das ist Knallertag heute"
+	],
+	"snow": [
+		"Schneeballschlacht!"
+	],
+	"rain": [
+		"Regenschirm nicht vergessen!"
+	]
 }
